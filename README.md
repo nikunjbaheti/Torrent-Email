@@ -15,3 +15,11 @@ This script will take the name of the movies in the given text file, scrap rarbg
 
 #Basic usage
 `python3 torrent-scrapper.py shows.txt`
+
+#File with Show/Movie search names
+Please make sure that the text file that has the names of the TV shows/Movies is in the format like the following
+
+1=Show+1+name
+2=Show+2+name
+
+this is important or the json file that is generated wont have the magnet url of the torrent
