@@ -32,12 +32,12 @@
 32=Supergirl+fum
 33=The+100+fum
 34=The+affair+fum
-35=The+catch
-36=The+following
+35=The+catch+fum
+36=The+following+fum
 37=The+vampire+diaries+fum
 38=The+originals+fum
-39=
-40=
+39=Gilmore=Girls=fum
+40=Mr=Robot=fum
 41=
 42=
 43=
